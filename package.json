@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "Babel": "^0.0.1",
+    "bootstrap": "^5.3.3",
+    "browser-sync": "^3.0.2",
+    "gulp": "^5.0.0",
+    "gulp-autoprefixer": "^9.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-notify": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-ttf2woff2": "^4.0.1",
+    "gulp-uglify": "^3.0.2",
+    "i": "^0.3.7",
+    "imagemin-jpeg-recompress": "^7.1.0",
+    "npm": "^10.8.1",
+    "sass": "^1.77.6"
+  },
+  "devDependencies": {
+    "gulp-webp": "^5.0.0"
+  }
+}
